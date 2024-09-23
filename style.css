@@ -32,5 +32,116 @@ img {
 .fase2
 {
     display: flex;
-  
+    justify-content: center;
+}
+
+.fase3
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.fase4
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fase5
+{
+    height: 97vh;
+    display: flex;
+    align-items: flex-end;
+}
+
+.fase6
+{
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fase7
+{
+    height: 97vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.fase8
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.fase9
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.fase10
+{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+
+.fase11
+{
+    height: 97vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+}
+
+.fase12
+{
+    height: 97vh;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+.fase13
+{
+    height: 97vh;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: end;
+}
+
+.fase14
+{
+    display: flex
+}
+
+.amarelo
+{
+    order: 1;
+}
+
+.fase15
+{
+    display: flex;
+}
+
+.vermelho
+{
+    order: -1;
+}
+
+.fase16
+{
+    height: 97vh;
+    display: flex;
+    align-items: flex-start;
+}
+
+.amarelo16
+{
+    align-self: flex-end;
 }
